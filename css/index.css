@@ -1,0 +1,27 @@
+
+.container{
+    width:1200px;
+    height:800px;
+    border:1px solid black;
+}
+
+.head{
+    border:1px solid black;
+    height:80px;
+    padding-left: 50px;
+    padding-top:20px;
+}
+.logo{
+    border:1px solid black;
+    height:40px;
+    width:200px;
+    float:left;
+
+   
+}
+.sep-div{
+    border:1px solid black;
+    width:500px;
+    height:40px;
+    float:right;
+}

@@ -1,0 +1,13 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+.slider-height{
+    height:30vw;
+}
+.form{
+    width: 400px;
+    padding-top:100px;
+    padding-bottom:100px;
+}
